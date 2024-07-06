@@ -1,0 +1,4 @@
+#Wed May 01 16:47:25 UZT 2024
+base.0=/Users/hikmatillomadaliyev/portfolio/web_view_example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
